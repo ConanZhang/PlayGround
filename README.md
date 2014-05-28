@@ -1,4 +1,4 @@
 Test
 ====
 
-not ok
+//test
